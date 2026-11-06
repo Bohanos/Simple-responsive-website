@@ -35,7 +35,7 @@ This is a static HTML and CSS project. No build tools or package installation ar
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/sunday-loaf-bakery.git
+   git clone https://github.com/Bohanos/Simple-responsive-website.git
    ```
 
 2. Move into the project directory:
